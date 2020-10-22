@@ -27,8 +27,8 @@ frida -U -f com.example.android --no-pause -l _agent.js
 
 
 ###jnitrace 
-![jnitrace](frida_js/images/jnitrace/jnitrace01.jpg)
-![jnitrace](frida_js/images/jnitrace/jnitraceDemo2.jpg)
+![jnitrace](./frida_js/images/jnitrace/jnitrace01.jpg)
+![jnitrace](./frida_js/images/jnitrace/jnitraceDemo2.jpg)
 
 ###apk脱壳&协议分析
 [frida安装和使用-06apk脱壳技术收集](https://www.jianshu.com/writer#/notebooks/16764822/notes/78711805)
