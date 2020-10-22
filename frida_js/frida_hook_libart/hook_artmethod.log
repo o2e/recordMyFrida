@@ -1,0 +1,11 @@
+     ____
+    / _  |   Frida 12.6.20 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at http://www.frida.re/docs/home/
+Spawning `package_name`...
+Failed to spawn: unable to find application with identifier 'package_name'
