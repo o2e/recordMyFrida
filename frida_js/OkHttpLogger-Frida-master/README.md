@@ -1,5 +1,5 @@
 # OkHttpLogger-Frida
-- Frida 实现拦截okhttp的脚本
+- Frida 实现拦截okhttp的脚本 https://github.com/siyujie/OkHttpLogger-Frida
 
 
 ### 使用说明
